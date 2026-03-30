@@ -2,8 +2,7 @@
 <br>
 <p>Para executar os documentos, execute os seguintes comandos : <br></p>
 <code>npm init -y
- npm install express
- npm install sqlite3
+ npm install express pg dotenv
  npm install</code>
 <p>Logo após, execute o seguinte comando para rodar o código : <code>node app.js</code></p>
 
