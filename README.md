@@ -8,4 +8,4 @@
 <p>Logo após, execute o seguinte comando para rodar o código : <code>node app.js</code></p>
 
 
-<p><b>Feito por :</b> Gustavo Millamonte <br><b>Data :</b> 23/03/2026<br><b>Professores :</b> Tupinambá e Odair<br><b>Curso de Análise e Desenvolvimento de Sistemas</b><br><b>SENAI - Serviço Nacional de Aprendizagem Industrial</b></p>
+<p><b>Feito por :</b> Gustavo Millamonte <br><b>Data :</b> 30/03/2026<br><b>Professores :</b> Tupinambá e Odair<br><b>Curso de Análise e Desenvolvimento de Sistemas</b><br><b>SENAI - Serviço Nacional de Aprendizagem Industrial</b></p>
